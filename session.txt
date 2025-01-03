@@ -1,1 +1,1 @@
-This IS RAPID PROTOTYPING session.
+This IS SOFTWARE PROTOTYPING session.
